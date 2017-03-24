@@ -6,8 +6,6 @@ import ga4gh.Variants;
 import ga4gh.Variants.Variant;
 import ga4gh.Variants.Variant.Builder;
 
-import com.google.protobuf.util.JsonFormat.TypeRegistry.Builder;
-
 
 import com.google.protobuf.util.JsonFormat;
 import com.google.protobuf.util.JsonFormat.Printer;
